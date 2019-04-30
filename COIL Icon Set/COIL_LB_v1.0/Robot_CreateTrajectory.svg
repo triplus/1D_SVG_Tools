@@ -1,0 +1,263 @@
+<svg
+   viewBox="0 0 48 48"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   version="1.1"
+   id="svg3336"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   width="48"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:cc="http://creativecommons.org/ns#"
+   inkscape:version="0.91 r13725"
+   height="48"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   sodipodi:docname="1D_FC_COIL_LB_BLUE.svg">
+   <title
+      id="title12183">COIL Icon Pack LB Blue v0.1</title>
+   <defs
+      id="defs3338">
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-8"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-3"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-6"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-5"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-9"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-2"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-7"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-31"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-79"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-87"></pattern>
+      <pattern
+         x="0"
+         patternUnits="userSpaceOnUse"
+         height="6"
+         width="6"
+         y="0"
+         id="EMFhbasepattern-94"></pattern></defs>
+   <sodipodi:namedview
+      showgrid="true"
+      inkscape:snap-intersection-paths="true"
+      id="base"
+      inkscape:window-maximized="1"
+      inkscape:current-layer="layer4"
+      pagecolor="#f5f5f5"
+      inkscape:object-paths="true"
+      inkscape:cy="-442.3766"
+      inkscape:snap-to-guides="false"
+      inkscape:pageshadow="2"
+      inkscape:snap-smooth-nodes="true"
+      inkscape:snap-center="true"
+      inkscape:window-height="1003"
+      inkscape:window-width="1920"
+      inkscape:snap-bbox="true"
+      inkscape:zoom="0.125"
+      inkscape:window-x="-9"
+      inkscape:snap-global="true"
+      inkscape:snap-grids="false"
+      inkscape:object-nodes="true"
+      inkscape:snap-object-midpoints="true"
+      inkscape:document-units="px"
+      inkscape:cx="-1014.2608"
+      showguides="true"
+      inkscape:window-y="-9"
+      borderopacity="1.0"
+      bordercolor="#666666"
+      inkscape:grid-bbox="true"
+      inkscape:pageopacity="1">
+      <inkscape:grid
+         empspacing="4"
+         spacingy="6"
+         opacity="0.09803922"
+         empcolor="#3f3fff"
+         empopacity="0.14901961"
+         id="grid3344"
+         color="#3f3fff"
+         dotted="false"
+         spacingx="6"
+         type="xygrid"></inkscape:grid>
+      <inkscape:grid
+         empspacing="48"
+         spacingy="1"
+         empcolor="#0e3ca4"
+         empopacity="0.19607843"
+         id="grid3346"
+         spacingx="1"
+         type="xygrid"></inkscape:grid></sodipodi:namedview>
+   <metadata
+      id="metadata3341">
+      <rdf:RDF>
+         <cc:Work
+            rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+            <dc:title>COIL Icon Pack LB Blue v0.1</dc:title>
+            <dc:creator>
+               <cc:Agent>
+                  <dc:title>Paul Kotelevets (1D_Inc)</dc:title></cc:Agent></dc:creator>
+            <dc:rights>
+               <cc:Agent>
+                  <dc:title></dc:title></cc:Agent></dc:rights>
+            <cc:license
+               rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"></cc:license>
+            <dc:identifier>Light theme</dc:identifier>
+            <dc:description>FreeCAD Icons Pack Light Blue (background f5f5f5ff and lighter) 
+5 colors 
+black 373e48ff /grey 939dacff /blue 1d7bf0ff /green 00ada3ff /violet d35fbcff</dc:description>
+            <dc:contributor>
+               <cc:Agent>
+                  <dc:title>based on Blender 2.8 style by Andrzej Ambroz (jendrzych), Monoicon style</dc:title></cc:Agent></dc:contributor>
+            <dc:date>2019</dc:date>
+            <dc:relation>https://github.com/triplus/IconThemes</dc:relation>
+            <dc:coverage></dc:coverage>
+            <dc:source>https://forum.freecadweb.org/viewtopic.php?f=34&amp;=34687</dc:source>
+            <dc:publisher>
+               <cc:Agent>
+                  <dc:title>FreeCAD</dc:title></cc:Agent></dc:publisher>
+            <dc:subject>
+               <rdf:Bag>
+                  <rdf:li>FreeCAD</rdf:li>
+                  <rdf:li>COIL</rdf:li>
+                  <rdf:li>Icon</rdf:li>
+                  <rdf:li>Pack</rdf:li>
+                  <rdf:li>Theme</rdf:li></rdf:Bag></dc:subject></cc:Work>
+         <cc:License
+            rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+            <cc:permits
+               rdf:resource="http://creativecommons.org/ns#Reproduction"></cc:permits>
+            <cc:permits
+               rdf:resource="http://creativecommons.org/ns#Distribution"></cc:permits>
+            <cc:requires
+               rdf:resource="http://creativecommons.org/ns#Notice"></cc:requires>
+            <cc:requires
+               rdf:resource="http://creativecommons.org/ns#Attribution"></cc:requires>
+            <cc:permits
+               rdf:resource="http://creativecommons.org/ns#DerivativeWorks"></cc:permits>
+            <cc:requires
+               rdf:resource="http://creativecommons.org/ns#ShareAlike"></cc:requires></cc:License></rdf:RDF></metadata>
+   <g
+      inkscape:groupmode="layer"
+      inkscape:label="icon"
+      id="icon">
+      <path
+         d=" m 25.707400000000007,37.2047 c 2.3405,0.8509 4.8402,1.3785 7.4469,1.5277"
+         id="path57319"
+         inkscape:connector-curvature="0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         inkscape:export-xdpi="78"
+         inkscape:export-ydpi="78"></path>
+      <path
+         d=" m 13.775900000000092,28.377200000000016 c 1.4692,1.945 3.2049,3.6795 5.1548,5.1483"
+         id="path57315"
+         inkscape:connector-curvature="0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         inkscape:export-xdpi="78"
+         inkscape:export-ydpi="78"></path>
+      <path
+         d=" m 8.501999999999953,12.726599999999962 c 0.012,3.0802 0.557,6.0398 1.5504,8.7883"
+         id="path57305"
+         inkscape:connector-curvature="0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         inkscape:export-xdpi="78"
+         inkscape:export-ydpi="78"></path>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         id="path57289"
+         inkscape:export-xdpi="78"
+         inkscape:connector-curvature="0"
+         d=" m 12.586099999999988,8.821199999999976 a 3.909143,3.9136188 0 0 1 -3.9091,3.9137 3.909143,3.9136188 0 0 1 -3.9092,-3.9137 3.909143,3.9136188 0 0 1 3.9092,-3.9136 3.909143,3.9136188 0 0 1 3.9091,3.9136 z"
+         inkscape:export-ydpi="78"></path>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         id="path57283"
+         inkscape:export-xdpi="78"
+         inkscape:connector-curvature="0"
+         d=" m 40.95479999999998,39.066299999999956 a 3.909143,3.9136188 0 0 1 -3.9091,3.9136 3.909143,3.9136188 0 0 1 -3.9092,-3.9136 3.909143,3.9136188 0 0 1 3.9092,-3.9136 3.909143,3.9136188 0 0 1 3.9091,3.9136 z"
+         inkscape:export-ydpi="78"></path>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         id="path57291"
+         inkscape:export-xdpi="78"
+         inkscape:connector-curvature="0"
+         d=" m 15.579799999999977,25.071199999999976 a 3.909143,3.9136188 0 0 1 -3.9091,3.9137 3.909143,3.9136188 0 0 1 -3.9092,-3.9137 3.909143,3.9136188 0 0 1 3.9092,-3.9136 3.909143,3.9136188 0 0 1 3.9091,3.9136 z"
+         inkscape:export-ydpi="78"></path>
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         id="path57293"
+         inkscape:export-xdpi="78"
+         inkscape:connector-curvature="0"
+         d=" m 25.954799999999977,35.885599999999954 a 3.909143,3.9136188 0 0 1 -3.9091,3.9137 3.909143,3.9136188 0 0 1 -3.9092,-3.9137 3.909143,3.9136188 0 0 1 3.9092,-3.9136 3.909143,3.9136188 0 0 1 3.9091,3.9136 z"
+         inkscape:export-ydpi="78"></path>
+      <path
+         inkscape:connector-curvature="0"
+         d=" m 43.36640000000011,12.669430000000034 a 8.7065125,8.7065125 0 0 1 -8.7065,8.70652 8.7065125,8.7065125 0 0 1 -8.7065,-8.70652 8.7065125,8.7065125 0 0 1 8.7065,-8.70651 8.7065125,8.7065125 0 0 1 8.7065,8.70651 z m -8.7197,4.31307 0,-8.647 m 4.3236,4.3235 -8.6469,0"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1d7bf0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
+         id="circle57279"></path></g></svg>
